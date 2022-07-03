@@ -27,7 +27,7 @@
 }
 
 .jump {
-
+  animation: jump 500ms ease-out;
 }
 
 @keyframes pipe-animation {
