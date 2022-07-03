@@ -1,4 +1,4 @@
-![Mario-gif]()
+![Mario-gif](https://github.com/Rodrigo001-dev/mario-game/blob/main/.github/mario.gif)
 
 ## :page_with_curl: Projeto
 
@@ -7,7 +7,7 @@ Criando um game utilizando somente HTML, CSS e JavaScript para poder exercitar o
 ## 🚀 Tecnologias/Bibliotecas utilizadas
 
 <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"> </a>
-<a href="https://sass-lang.com/guide" target="_blank"> <img src="https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css&logoColor=white" alt="CSS"> </a>
+<a href="https://sass-lang.com/guide" target="_blank"> <img src="https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white" alt="CSS"> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Javascript&logoColor=white" alt="JavaScript"> </a>
 
 ## 💻 Autor
